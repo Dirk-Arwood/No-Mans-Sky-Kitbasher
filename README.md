@@ -3,4 +3,4 @@ This is a Prelimary Investigation into the No Man's Sky spacecraft, how they are
 Upon inspection of the game files, with the software No Man's Sky Model Viewer, I am able to open every model in the game files, going back to the E3 2015 Demo (Sidenote that last bit is basically irrelevant but I just care about anything after release)
 
 
-This isn't really within the scope of my current aims, but I can also view multitools as well
+This isn't really within the scope of my current aims, but I can also view multitools as well which is definitely interesting, this is something that I will have to look into further.
