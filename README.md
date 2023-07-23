@@ -1,1 +1,1 @@
-This is a kitbasher software idea which aims to take various parts of the ships from the videogame No Man's Sky and combine them into a model that can then be printed
+This is a Prelimary Investigation into the No Man's Sky spacecraft, how they are defined in the game files and how they are shown in-game
