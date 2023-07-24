@@ -23,3 +23,5 @@ Alongside this there are several cockpit *interiors* that are included in the li
 
 
 [Further investigation of the full fighters does indicate that there is a rendered space beneath the canopy, which I will have to tweak before I attempt a print.]
+
+Further analysis indicates that I could potentially kitbash together my own ships, but again, I am nowhere near caffeinated enough to work it out.
