@@ -18,3 +18,8 @@ Further from this they are then numerated by the alphabet, so A, B, C and so on.
 However this means that it is very tricky to search through the list, as there is no filtering and there is only a search box. Although I reckon I might be able to throw something together in Excel that might work. Although it would be a bit tricky and I don't have enough caffeine in me to work it out.
 
 Alongside this there are several cockpit *interiors* that are included in the list, which makes things interesting.
+
+
+
+
+[Further investigation of the full fighters does indicate that there is a rendered space beneath the canopy, which I will have to tweak before I attempt a print.]
