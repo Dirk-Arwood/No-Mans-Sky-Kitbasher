@@ -16,3 +16,5 @@ A Prelimary investigation reveals that the spacecraft are categoried first by ro
 Further from this they are then numerated by the alphabet, so A, B, C and so on.
 
 However this means that it is very tricky to search through the list, as there is no filtering and there is only a search box. Although I reckon I might be able to throw something together in Excel that might work. Although it would be a bit tricky and I don't have enough caffeine in me to work it out.
+
+Alongside this there are several cockpit *interiors* that are included in the list, which makes things interesting.
