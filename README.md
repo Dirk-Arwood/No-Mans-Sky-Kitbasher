@@ -25,3 +25,5 @@ Alongside this there are several cockpit *interiors* that are included in the li
 [Further investigation of the full fighters does indicate that there is a rendered space beneath the canopy, which I will have to tweak before I attempt a print.]
 
 Further analysis indicates that I could potentially kitbash together my own ships, but again, I am nowhere near caffeinated enough to work it out.
+
+I've had a secondary breakthrough regarding my categorising of these models, yes there are some discrepancies between the website I have found and the model names but its a start and I can do a process of elimination which works in my favour... This is a ship customiser generation website that has every procedural combination for a ship, down to every part.
