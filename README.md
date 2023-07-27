@@ -29,3 +29,5 @@ Further analysis indicates that I could potentially kitbash together my own ship
 I've had a *major* breakthrough regarding my categorising of these models, yes there are some discrepancies between the website I have found and the model names which is definitely weird, [On a sidenote, this name discrepancy doesn't really matter too much, but its something I can work with] but its a start and I can do a process of elimination which works in my favour... This is a ship customiser generation website that has every procedural combination for a ship, down to every part. The website in question being *https://nms.center/*
 
 The only question now that remains is how to categorise the parts, because even with this website, its still going to be a timeconsuming task to go through each and every part to run cross-referencing.
+
+I believe I have come up with a solution, cross-referencing the names with the parts, and inputting that data into a spreadsheet... Lets get to work.
