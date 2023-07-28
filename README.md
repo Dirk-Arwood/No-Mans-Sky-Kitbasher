@@ -31,3 +31,5 @@ I've had a *major* breakthrough regarding my categorising of these models, yes t
 The only question now that remains is how to categorise the parts, because even with this website, its still going to be a timeconsuming task to go through each and every part to run cross-referencing.
 
 I believe I have come up with a solution, cross-referencing the names with the parts, and inputting that data into a spreadsheet... Lets get to work.
+
+I have run another test ship through the printer, and I am now settling on the scale I want for the ships.
