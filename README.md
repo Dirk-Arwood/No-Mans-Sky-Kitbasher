@@ -33,3 +33,5 @@ The only question now that remains is how to categorise the parts, because even 
 I believe I have come up with a solution, cross-referencing the names with the parts, and inputting that data into a spreadsheet... Lets get to work.
 
 I have run another test ship through the printer, and I am now settling on the scale I want for the ships.
+
+Time flew by, but we're back in business, I am now going to attempt to categorise each ship part that I can by classification, purely by letter increments to distinguish them, after which I will cross-refererence the names. Here we go
